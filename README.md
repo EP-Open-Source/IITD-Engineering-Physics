@@ -53,16 +53,6 @@ This repository aims to assist EP students across all years by providing:
 
 </details>
 
-<details>
-<summary><strong>Universities-and-Applications/</strong></summary>
-
-- MS-Programs/ — Master’s program guidance  
-- PhD-Programs/ — PhD program guidance  
-- SOP-Guidelines.md — Statement of Purpose guidelines  
-- Email-Templates.md — Templates for contacting professors/labs  
-- Prof-Lists.md — Faculty lists for applications  
-
-</details>
 
 <details>
 <summary><strong>Seniors-and-Alumni/</strong></summary>
