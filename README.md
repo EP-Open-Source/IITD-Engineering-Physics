@@ -48,8 +48,7 @@ This repository aims to assist EP students across all years by providing:
 <details>
 <summary><strong>Career-Paths/</strong></summary>
 
-- Corporate/ — Industry careers (consulting, software, finance, analytics)  
-- Core-Physics/ — Fundamental & applied physics career paths  
+- Corporate/ — Industry careers (consulting, software, finance, analytics)    
 - Research/ — Research-oriented academic paths  
 
 </details>
