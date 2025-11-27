@@ -109,7 +109,7 @@ This repository is intended for:
 
 Once fully developed, this repository will be handed over to:
 
-**Physics Society, IIT Delhi**,  
+**EP Student community, IIT Delhi**,  
 ensuring continued updates and maintenance for the benefit of future EP students.
 
 ---
