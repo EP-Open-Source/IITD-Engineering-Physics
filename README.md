@@ -116,8 +116,10 @@ ensuring continued updates and maintenance for the benefit of future EP students
 
 ## Maintainers
 
+- **Kaivalya Mahajan**
+- **Riya Annie Rubert**
 - **Soham Debnath (EP’28)**  
-- Additional contributors and collaborators will be listed as they join.
+  
 
 ---
 
