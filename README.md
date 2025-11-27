@@ -10,7 +10,7 @@ It consolidates academic materials, research guidance, career paths, project ide
 
 The primary objective of this repository is:
 
-> To build a long-term, evolving knowledge base that supports current students and becomes a legacy resource maintained by future batches and the Physics Society of IIT Delhi.
+> To build a long-term, evolving knowledge base that supports current students and becomes a legacy resource maintained by future batches.
 
 ---
 
