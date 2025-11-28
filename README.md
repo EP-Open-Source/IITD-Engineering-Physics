@@ -68,7 +68,7 @@ This repository aims to assist EP students across all years by providing:
 
 - Contribution-Guidelines.md — How to contribute  
 - Google-Forms.md — Forms for submitting resources  
-
+An advice to future maintainers, make new G-forms after forking
 </details>
 
 - README.md — Main documentation  
