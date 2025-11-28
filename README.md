@@ -74,6 +74,74 @@ This repository aims to assist EP students across all years by providing:
 - README.md — Main documentation  
 
 </details>
+## Team Roles and Responsibilities
+
+This repository is maintained by a 9-member team. Work is divided into two outreach groups and one coordinator.
+
+---
+## Team Roles and Responsibilities
+
+###  1. Corporate Outreach Team
+**Goal:** Collect information from seniors working in corporate/industry roles.
+
+**Each Member Must:**
+- Find seniors from LinkedIn, WhatsApp groups, institute networks.
+- Contact at least **X seniors per week**.
+- Ask the following fixed questions:
+  1. Current role and company  
+  2. Skills required  
+  3. Internship/job application process  
+  4. Advice for EP students  
+  5. Mistakes to avoid  
+  6. Useful resources (courses, books, tips)  
+  7. Permission to publish their info in this repo  
+- Create a **summary document** in the given format.
+- Submit the summary to the coordinator for review.
+
+---
+
+### 📌 2. Higher Studies & Research Outreach Team 
+**Goal:** Gather information from seniors pursuing MS/PhD or working in research labs.
+
+**Each Member Must:**
+- Find seniors in universities and research labs (India & abroad).
+- Contact at least **X seniors per week**.
+- Ask the following fixed questions:
+  1. University, degree, and research area  
+  2. How they prepared for applications  
+  3. SOP, LOR, GPA, and project expectations  
+  4. Funding situation (if applicable)  
+  5. Advice for EP students  
+  6. Recommended resources and courses  
+  7. Permission to include their data in this repo  
+- Prepare a **summary in the provided format**.
+- Submit the summary to the coordinator for review.
+
+---
+
+
+### 📌 Deliverables (For All Team Members)
+- Minimum number of seniors contacted weekly.
+- A structured summary for each senior.
+- Verified and properly formatted content only.
+- No direct uploads without coordinator approval.
+
+---
+
+### 📁 Summary Format Template (to be used by all members)
+- **Name of Senior:**  
+- **Batch:**  
+- **Current Position/University:**  
+- **Path Taken:** Corporate / Research / Higher Studies  
+- **Key Skills:**  
+- **Process Followed:**  
+- **Advice:**  
+- **Resources Shared:**  
+- **Permission to Publish:** Yes/No
+
+---
+
+This ensures that all contributions follow a single, uniform structure and the repository remains organized and useful.
 
 ## Contributions
 
