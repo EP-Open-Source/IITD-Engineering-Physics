@@ -113,12 +113,14 @@ Once fully developed, this repository will be handed over to:
 ensuring continued updates and maintenance for the benefit of future EP students.
 
 ---
-
-## Maintainers(in alphabetical order)
-
-- **Kaivalya Mahajan**
-- **Riya Annie Rubert**
-- **Soham Debnath**  
+## Maintainers (in alphabetical order)
+<details>
+  <summary>2025</summary>
+  
+  * **Kaivalya Mahajan**
+  * **Riya Annie Rubert**
+  * **Soham Debnath**
+</details>
   
 
 ---
