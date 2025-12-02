@@ -115,9 +115,10 @@ ensuring continued updates and maintenance for the benefit of future EP students
 <details>
   <summary>2025</summary>
   
-  * **Kaivalya Mahajan**
+  * **Keshav Raj**
   * **Riya Annie Rubert**
   * **Soham Debnath**
+    
 </details>
   
 
