@@ -94,6 +94,6 @@ quantum-career-guide/
 │   │   ├── courses.md
 │   │   ├── software-tools.md
 │   │   ├── research-methods.md
-│   │   └── paper-reading-guide.md
+└── └── └── paper-reading-guide.md
   </pre>
 </details>
