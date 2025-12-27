@@ -8,17 +8,15 @@ quantum-career-guide/
 ├── README.md
 ├── 0-preface/
 ├── docs/
-│   └── preface.md
-│   │
-│   ├── 1-introduction/
+│   ├── 01-introduction/
 │   │   ├── overview.md
 │   │   └── quantum-landscape.md
 │   │
-│   ├── 2-ecosystem/
+│   ├── 02-ecosystem/
 │   │   ├── quantum-pillars.md
 │   │   └── industry-vs-academia.md
 │   │
-│   ├── 3-research-areas/
+│   ├── 03-research-areas/
 │   │   ├── algorithms.md
 │   │   ├── qec-fault-tolerance.md
 │   │   ├── quantum-hardware.md
@@ -27,7 +25,7 @@ quantum-career-guide/
 │   │   ├── communication-networks.md
 │   │   └── quantum-materials.md
 │   │
-│   ├── 4-skills/
+│   ├── 04-skills/
 │   │   ├── physics.md
 │   │   ├── mathematics.md
 │   │   ├── programming.md
@@ -35,21 +33,21 @@ quantum-career-guide/
 │   │   ├── research-skills.md
 │   │   └── communication.md
 │   │
-│   ├── 5-roadmap/
+│   ├── 05-roadmap/
 │   │   ├── year1.md
 │   │   ├── year2.md
 │   │   ├── year3.md
 │   │   ├── year4.md
 │   │   └── late-starters.md
 │   │
-│   ├── 6-profile-building/
+│   ├── 06-profile-building/
 │   │   ├── github-guide.md
 │   │   ├── resume-guide.md
 │   │   ├── blog-guide.md
 │   │   ├── publications.md
 │   │   └── linkedin.md
 │   │
-│   ├── 7-projects/
+│   ├── 07-projects/
 │   │   ├── software-projects.md
 │   │   ├── hardware-projects.md
 │   │   ├── qml-projects.md
@@ -57,13 +55,13 @@ quantum-career-guide/
 │   │   └── project-templates/
 │   │       └── template.md
 │   │
-│   ├── 8-internships/
+│   ├── 08-internships/
 │   │   ├── india-labs.md
 │   │   ├── international-programs.md
 │   │   ├── email-templates.md
 │   │   └── timelines.md
 │   │
-│   ├── 9-higher-education/
+│   ├── 09-higher-education/
 │   │   ├── faculty_directory.md
 │   │   ├── masters.md
 │   │   ├── phd-labs.md
@@ -97,18 +95,5 @@ quantum-career-guide/
 │   │   ├── software-tools.md
 │   │   ├── research-methods.md
 │   │   └── paper-reading-guide.md
-│   │
-│   └── 14-addons/
-│       ├── quantum-club-guide.md
-│       ├── startup-guide.md
-│       ├── cv-template.md
-│       ├── sop-template.md
-│       └── email-template.md
-│
-└── assets/
-    ├── images/
-    ├── diagrams/
-    ├── logos/
-    └── pdfs/
   </pre>
 </details>
