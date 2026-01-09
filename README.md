@@ -111,16 +111,6 @@ Once fully developed, this repository will be handed over to:
 ensuring continued updates and maintenance for the benefit of future EP students.
 
 ---
-## Maintainers (in alphabetical order)
-<details>
-  <summary>2025</summary>
-  
-  * **Kesav Raj**
-  * **Riya Annie Rubert**
-  * **Soham Debnath**
-  * **Sriraman**
-    
-</details>
   
 
 ---
